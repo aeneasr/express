@@ -8,6 +8,6 @@ app.get('/', function(req, res){
 
 /* istanbul ignore next */
 if (!module.parent) {
-  app.listen(80);
-  console.log('Express started on port 3000');
+  app.listen(4392);
+  console.log('Express started on port 4392');
 }
