@@ -1,1 +1,1 @@
-node examples/content-negotiation
+web: examples/content-negotiation
